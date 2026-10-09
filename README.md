@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Sachin Kumar Pachahara 👋</h1>
+  <h1>Hi, I'm Sachin Pachahara 👋</h1>
   <p><h3>🚀 Full Stack Developer | Generative AI Engineer</h3></p>
   <p>
     <i>Final-year B.Tech CSE (2023–2027) passionate about scalable web architecture and AI-driven solutions.</i>
